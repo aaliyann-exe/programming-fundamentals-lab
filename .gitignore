@@ -1,0 +1,12 @@
+# Junk
+*.exe
+*.o
+*.out
+
+# VS code ki files
+.vs/
+Debug/
+Release/
+*.vcxproj*
+*.sln
+.vscode/
