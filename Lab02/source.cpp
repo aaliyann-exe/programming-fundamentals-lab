@@ -4,6 +4,7 @@
 using namespace std;
 
 int main() {
+
     string name = "Ali";
     string program = "BSCS";
     int semester = 3;
@@ -28,4 +29,5 @@ int main() {
     cout << "Semester: " << fileSemester << endl;
 
     return 0;
+    
 }
