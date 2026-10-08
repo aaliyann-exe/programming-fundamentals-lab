@@ -9,5 +9,4 @@ Debug/
 Release/
 *.vcxproj*
 *.sln
-config.bat
-node_modules
+.vscode/
