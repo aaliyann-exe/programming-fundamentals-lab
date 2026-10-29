@@ -3,13 +3,18 @@
 *.o
 *.out
 
+# Example files and PDFs
+examples.cpp
+*.pdf
+
 # VS code ki files
 .vs/
 Debug/
 Release/
 *.vcxproj*
 *.sln
-.vscode/
 
 # Other assignments
-rbf-lab/   
+rbf-lab/
+config.bat
+node_modules
